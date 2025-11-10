@@ -1,0 +1,226 @@
+body{
+    font-family: sans-serif;
+}
+.skg{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-right: 455px;
+    margin-left: 150px;
+}
+.ukg{
+    display: flex;
+    gap: 20px;
+}
+.dkg{
+    color: blue;
+    font-size: large;
+    margin-left: -10px;
+}
+.kgl{
+    border: 1px solid #ccc;
+    height: 400px;
+    margin: 10px 40px;
+    background: linear-gradient(to right,#b3d4fc,#d5c3f7);
+}
+.nbt{
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: -10px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    color: black;
+}
+.nbt:hover{
+    background-color: blue;
+    color: white;
+}
+.ukg a{
+         text-decoration: none;
+         color: black;
+}
+.hay{
+       margin-left: 320px;
+}
+.hay button{
+    display: inline-block;
+    color: blue;
+    border: 1px solid lightgrey;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.hay{
+    display: flex;
+    gap: 20px;
+}
+.hay button:hover{
+    color: white;
+    background-color: blue;
+}
+div[class*=flight]{
+    height: 540px;
+    width: 350px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px #ccc;
+}
+.tor{
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    gap:20px;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+div[class*=image]{
+    height: 200px;
+    width: 305px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin:30px 20px;
+}
+.rot{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    gap: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+div[class*=eagle]{
+    height: 200px;
+    width: 305px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 30px 20px;
+}
+.vid{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    gap: 20px;
+}
+div[class*=alert]{
+    height: 540px;
+    width: 350px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px #ccc;
+}
+div[class*=ley]{
+    height: 200px;
+    width: 305px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 30px 20px;
+}
+.last{
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    gap: 20px;
+    margin-right: 150px;
+    margin-left:150px ;
+}
+div[class*=late]{
+    height: 540px;
+    width: 350px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 2px #ccc;
+}
+div[class*=pic]{
+    height: 200px;
+    width: 305px;
+    margin: 10px;
+    margin: 30px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.notty{
+ 
+    border: 1px solid #ccc;
+
+    margin-left: 20px;
+    margin-right:20px ;
+    margin-top: 50px;
+    background-color: #eee;
+    border: 1px solid #eee;
+}
+.kids{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+div[class*=tasty]{
+    height: 200px;
+    width: 350px;
+}
+.feet a{
+    text-decoration: none;
+    color: blue;
+    padding-left: 20px;
+}
+.feet{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+nav a:hover{
+    color: blue;
+}
+nav a:active{
+    color: red;
+}
+.flight1 button:hover{
+    background-color: blue;
+    color: white;
+
+}
+.flight2 button:hover{
+    background-color: blue;
+    color: white;
+
+}
+.flight3 button:hover{
+    background-color: blue;
+    color: white;
+
+}
+.alert1 button:hover{
+    background-color: blue;
+    color: white;
+
+}
+.alert2 button:hover{
+    background-color: blue;
+    color: white;
+
+}
+.alert3 button:hover{
+    background-color: blue;
+    color: white;
+
+}
+.last button:hover{
+    background-color: blue;
+    color: white;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,98 @@
+.common{
+    height: 750px;
+    width: 600px;
+    border-top: 1px solid red;
+    border-left: 2px dashed black;
+    border-bottom: 3px dotted blue;
+    border-right: 4px double green;
+}
+.square{
+    height: 100px;
+    width: 100px;
+    border-top: 1px solid red;
+    border-left: 2px dashed black;
+    border-bottom: 3px dotted blue;
+    border-right: 4px double green;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    background-color: pink;
+}
+.rectangle{
+    height: 100px;
+    width: 200px;
+    border-top: 1px solid red;
+    border-left: 2px dashed black;
+    border-bottom: 3px dotted blue;
+    border-right: 4px double green;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    border-top: 1px solid red;
+    border-left: 2px dashed black;
+    border-bottom: 3px dotted blue;
+    border-right: 4px double green;
+    margin: 10px;
+    border-radius: 50%;
+    text-align: center;
+    padding: 20px;
+    background-color: lightgreen;
+    color: darkviolet;
+}
+.ellipse{
+    height: 200px;
+    width: 400px;
+    border-top: 1px solid red;
+    border-left: 2px dashed black;
+    border-bottom: 3px dotted blue;
+    border-right: 4px double green;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 100%;
+    text-align: center;
+    background-color: aqua;
+    color: white;
+    font-size: 25px;
+}
+.circle1{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 52%;
+    text-align: center;
+}
+.square1{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 5px;
+    text-align: center;
+}
+.circle1{
+    height: 100px;
+    width: 100px;
+    border :1px solid black;
+    margin: 5px;
+    padding: 10px;
+    border-radius:50% ;
+    text-align: center;
+}
+.ellipse1{
+    height: 100px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 100%;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}

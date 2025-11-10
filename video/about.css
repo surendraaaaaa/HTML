@@ -1,0 +1,183 @@
+body{
+    font-family: sans-serif;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.list{
+    display: flex;
+    gap: 20px;
+    margin-right: 480px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    color: blue;
+}
+nav a:active{
+    color: red;
+}
+.btn{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+.btn:hover{
+    color: white;
+    background-color: blue;
+}
+.sec{
+    border: 1px solid #ccc;
+    background: linear-gradient(to right,#d3d4fc,#d5c3f7);
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.fit{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 120px;
+    margin-right:120px;
+    gap: 10px;
+    justify-content: space-evenly;
+    
+}
+.div1{
+    height: 300px;
+    width: 550px;
+   
+}
+.div2{
+    height: 400px;
+    width: 550px;
+   
+    margin-top: -40px;
+}
+.cust{
+    border: 1px solid #eee;
+    background-color: #eee;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.poi:hover{
+    color: white;
+    background-color: blue;
+}
+.host{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    gap: 10px;
+    margin-bottom: 40px;
+}
+div[class*=part]{
+    height: 180px;
+    width: 200px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 2px #ccc;
+    background-color: white;
+}
+.rope{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+div[class*=hi]{
+    height: 170px;
+    width: 400px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 2px #ccc;
+    justify-content: space-around;
+}
+.tough{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+div[class*=mat]{
+    height: 170px;
+    width: 400px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 2px #ccc;
+    justify-content: space-around;
+}
+.chal{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+    border: 1px solid #eee;
+    background-color: #eee;
+}
+.aavo{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+div[class*=vit]{
+    height: 330px;
+    width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px #ccc;
+    margin-bottom: 50px;
+    background-color: white;
+}
+.line{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+div[class*=bod]{
+    height: 700px;
+    width: 500px;
+}
+.qua{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: linear-gradient(to right,#d3d4fc,#d5c3f7);
+}
+.tube{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.why{
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.why:hover{
+    color: white;
+    background-color: blue;
+}
+.null{
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid #eee;
+    background-color: #eee;
+}
+.lullu{
+    display: flex;
+    margin-top: 60px;
+    gap: 40px;
+    margin-left: 250px;
+}
+div[class*=plate]{
+    height: 230px;
+    width: 330px;
+}
+.live{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+.live a{
+    text-decoration: none;
+
+}

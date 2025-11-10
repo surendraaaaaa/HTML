@@ -1,0 +1,17 @@
+.common{
+    padding: 10px;
+    background-color: aqua;
+    height: 2000px;
+    background-clip: border-box;
+}
+.child1{
+    background-color: blue;
+    position: absolute;
+    top: 0px;
+}
+.child2{
+    background-color: brown;
+}
+.child3{
+    background-color: azure;
+}
