@@ -1,0 +1,235 @@
+body{
+    font-family: sans-serif;
+}
+.waste{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 455px;
+    margin-top: 40px;
+}
+.gate{
+    display: flex;
+    gap: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    color: blue;
+
+}
+nav a:active{
+    color: red;
+}
+.but{
+    border: 1px solid lightgrey;
+    padding: 10px;
+    border-radius: 5px;
+}
+.suri{
+    border: 1px solid #ccc;
+    margin-left: 20px;
+    margin-right:20px ;
+    margin-top: 20px;
+    background: linear-gradient(to right,#b3d4fc,#d5c3f7);
+}
+.but:hover{
+    background-color: blue;
+    color: white;
+}
+.fit{
+    margin-top: 60px;
+    display: flex;
+    gap: 40px;
+    margin-left: 100px;
+}
+.fit a:hover{
+    color: blue;
+}
+.fit a{
+    text-decoration: none;
+    color: black;
+}
+.mat{
+    height: 180px;
+    width: 600px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 2px #ccc;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.lop{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 530px;
+    margin-top: -20px;
+}
+.pol{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 530px;
+    margin-top: 20px;
+}
+.tam{
+    height: 180px;
+    width: 600px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 2px #ccc;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.lap{
+         display: flex;
+         justify-content: space-between;
+         margin-left: 250px;
+         margin-right: 530px;
+         margin-top: 20px;
+}
+.top{
+    height: 180px;
+    width: 600px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 2px #ccc;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.phone{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 530px;
+    margin-top: 20px;
+}
+.charger{
+    height: 180px;
+    width: 600px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 2px #ccc;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.pen{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 530px;
+    margin-top: 20px;
+}
+.pencil{
+    height: 180px;
+    width: 600px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 2px #ccc;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.rise{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 530px;
+    margin-top: 20px;
+}
+.rose{
+    height: 180px;
+    width: 600px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 2px #ccc;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.lilly{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 530px;
+    margin-top: 20px;
+}
+.willy{
+    height: 180px;
+    width: 600px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px #ccc;
+}
+.put{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 530px;
+    margin-top: 20px;
+}
+.get{
+    height: 180px;
+    width: 600px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px #ccc;
+}
+.kites{
+    margin-top: 60px;
+    border: 1px solid #ccc;
+    background: linear-gradient(to right,#b3d4fc,#d5c3f7);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ties{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-bottom: 60px;
+    padding-top: 10px;
+
+}
+.ties button{
+    padding: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
+.final{
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid #eee;
+    background-color: #eee;
+}
+.files{
+    display: flex;
+}
+div[class*=pet]{
+    height: 220px;
+    width: 400px;
+    margin-top: 30px;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.list a{
+    text-decoration: none;
+    color: blue;
+}
+.pet1{
+    margin-left: 90px;
+
+}
+.pet2{
+    margin-left: 120px;
+}
+ .ties button:hover{
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    color: white;
+    background-color: blue;
+}
+
+

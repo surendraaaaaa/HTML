@@ -1,0 +1,49 @@
+.not{
+    border: 1px solid black;
+    padding: 5px;
+    background-color: yellow;
+    display: grid;
+    justify-content:center;
+    color: aqua;
+}
+.yes{
+    display: grid;
+    gap: 20px;
+}
+.yes a{
+    color: crimson;
+    text-decoration: none;
+}
+.tip{
+    border:1px solid black;
+    margin: 1px;
+    padding-left: 180px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    grid-template-rows: repeat(5,1fr);
+    gap: 50px; 
+}
+div[class*=item]{
+    height: 350px;
+    width: 200px;
+    border: 1px solid black;
+    background-color:greenyellow;
+    text-align: center;
+}
+.fot{
+    border: 1px solid black;
+    background-color: black;
+    height: 100px;
+}
+.top{
+    display: grid;
+    justify-content: center;
+    gap: 5px;
+}
+
+
+
+
+

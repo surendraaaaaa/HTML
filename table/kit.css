@@ -1,0 +1,11 @@
+.hot{
+    background-color: aqua;
+    margin-top: 100px;
+}
+.not{
+    background-color: red;
+    display: inline-block;
+    margin-top: 100px;
+    padding: 100px;
+
+}

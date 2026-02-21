@@ -1,0 +1,11 @@
+#not{
+    border: 50px solid;
+    margin: 50px;
+    padding: 50px;
+    background-color: aqua;
+    background-image: url(OIP.jpg);
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-clip: border-box;
+    background-origin: content-box;
+}

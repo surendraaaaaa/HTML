@@ -1,0 +1,49 @@
+.not{
+    border: 1px solid black;
+    background-color: aqua;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+.list{
+    display: flex;
+    text-decoration: none;
+    gap: 20px;
+}
+.list a{
+    text-decoration: none;
+}
+.yes{
+    border: 1px solid black;
+    margin: 1px;
+    padding: 20px;
+}
+.fit{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 200px;
+}
+div[class*=item]{
+    height: 350px;
+    width: 200px;
+    border: 1px solid black;
+    align-content: start;
+    text-align: center;
+    border-radius: 5%;
+    background-color: chocolate;
+}
+.if{
+    border: 1px solid white;
+    background-color: black;
+    height: 100px;
+}
+.lift{
+    color: white;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+

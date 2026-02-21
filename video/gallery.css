@@ -1,0 +1,168 @@
+body{
+    font-family: sans-serif;
+}
+.mur{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-left: 150px;
+    margin-right: 450px;
+}
+.rum{
+    display: flex;
+    gap: 20px;
+}
+.umr{
+    color: blue;
+    font-size: large;
+    margin-left: -10px;
+}
+.kgf{
+    border: 1px solid #ccc;
+    background:linear-gradient(to right,#b3d4fc,#d5c3f7);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.muy{
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid lightgrey;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+.muy:hover{
+    color: white;
+    background-color: blue;
+}
+.rum a{
+    text-decoration: none;
+    color: black;
+}
+.tub{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.tub button{
+    border: 1px solid lightgrey;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.tub button:hover{
+    color: white;
+    background-color: blue;
+}
+.where{
+    display: flex;
+    margin-top: 20px;
+    gap: 20px;
+    justify-content: center;
+}
+div[class*=tip]{
+    height: 200px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.what{
+    display: flex;
+    margin-top: 20px;
+    gap: 20px;
+    justify-content: center;
+}
+div[class*=tip]{
+    height: 200px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.where{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+div[class*=tip]{
+    height: 200px;
+    width: 300px;
+    border-radius:5px;
+    border: 1px solid #ccc;
+}
+.when{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+div[class*=tip]{
+    height: 200px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.who{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+div[class*=tip]{
+    height: 200px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.gun{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+div[class*=pet]{
+    height: 200px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.tube{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+.tube button{
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+.tube button:hover{
+    color: white;
+    background-color: blue;
+}
+.poor{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 70px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+div[class*=fog]{
+    height: 200px;
+    width: 300px;
+}
+.sun{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.fog2 a{
+    text-decoration: none;
+    color: blue;
+}
+
+
+
+

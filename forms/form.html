@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+    <title>
+        forms
+    </title>
+    <body>
+        <label for="color">color</label>
+        <input type="color" id="color">
+        <br>
+        <label for="range">Range</label>
+        <input type="range" id="range">
+    </body>
+    <form>
+        <label for="nationality"> select Nationality:</label>
+        <select name="nationality" id="nationality" value="nationality">
+            <option for="choose">choose one</option>
+            <option for="indian">indian</option>
+            <option for="american">american</option>
+            <option for="russian">russian</option>
+            <option for="japanese">japanese</option>
+        </select>
+        <br>
+        <label for="state">select state</label>
+        <input type="text"  list="state">
+        <datalist id="state">
+            <option for="ap">andhra pradesh</option>
+            <option for="ts">telegana</option>
+            <option for="tn">tamilnadu</option>
+            <option for="ka">karnataka</option>
+        </datalist>
+        <button>submit</button>
+        <br>
+        <label for="address">address</label>
+        <textarea rows=cols="100" placeholder="enter" required></textarea>
+    </body>
+</html>
